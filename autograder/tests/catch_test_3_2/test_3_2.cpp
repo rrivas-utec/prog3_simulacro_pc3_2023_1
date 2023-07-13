@@ -3,7 +3,7 @@
 //
 #include "catch.hpp"
 #include "redirect_io.h"
-#include "P3.h"
+#include "binary_search_tree.h"
 using namespace std;
 
 static void test_3_2() {

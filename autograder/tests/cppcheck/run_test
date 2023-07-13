@@ -5,11 +5,11 @@
 
 # src code references
 source='cppcheck.cpp
-  ../redirect_io.h 
-  ../P1.h ../P1.cpp
-  ../P2.h ../P2.cpp
-  ../P3.h ../P3.cpp
-  ../P4.h ../P4.cpp
+  ../redirect_io.h
+  ../nearest_spheres.h
+  ../remove_characters.h
+  ../binary_search_tree.h
+  ../grafo.h
   '
 
 cppcheck ${source} -x c++ --enable=all --verbose --error-exitcode=1 --suppressions-list=suppressions.txt

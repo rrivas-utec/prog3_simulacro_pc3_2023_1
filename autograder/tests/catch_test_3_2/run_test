@@ -7,7 +7,6 @@
 
 # src code references
 source_code='
-  ../P3.cpp
   test_3_2.cpp
   '
 

@@ -3,7 +3,7 @@
 //
 #include "catch.hpp"
 #include "redirect_io.h"
-#include "P1.h"
+#include "nearest_spheres.h"
 using namespace std;
 
 static void test_1_2() {

@@ -3,7 +3,7 @@
 //
 #include "catch.hpp"
 #include "redirect_io.h"
-#include "P4.h"
+#include "grafo.h"
 using namespace std;
 
 static void test_4_2() {

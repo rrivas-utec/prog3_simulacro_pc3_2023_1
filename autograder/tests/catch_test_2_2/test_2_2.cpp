@@ -3,7 +3,7 @@
 //
 #include "catch.hpp"
 #include "redirect_io.h"
-#include "P2.h"
+#include "remove_characters.h"
 using namespace std;
 
 static void test_2_2() {
