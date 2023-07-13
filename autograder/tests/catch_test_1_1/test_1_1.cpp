@@ -15,7 +15,7 @@ static void test_1_1() {
     ns.add_sphere(8, 2);	// #3
     ns.add_sphere(20, 1);	// #4
     ns.add_sphere(15, 2);	// #5
-    // Obteniendo esferas en orden: #2, #3, #1
+    // Obteniendo esferas en orden: #1, #3, #5
     vector<spheres<int, double>> spheres = ns(3);
     // Mostrando resultado
     cout << spheres;
